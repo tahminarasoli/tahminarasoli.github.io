@@ -1,7 +1,27 @@
-# (project name)
+# (Tahmina's home page)
 
 <!-- describe your project -->
-
+## Personal info
+ I came from Afghanistan, a men dominated country where women confront a lot of challenges by going out to work or study. Specially, in the IT domain which is also men dominated field in my country. I have been always curious about working in an environment where is no discrimination and everyone has a voice. 
+### Demographics
+● Age: 30 
+● Gender: Female 
+● Occupation: study 
+● Married, has no child
+### Education background
+Bachelor degree from Computer Science faculty Kabul university.
+### Working experience
+I have six years of working experience as a `web content officer` at Nai Supporting Open Media in Afghanistan, a `Cyber and Information local expert` at the Ministry of Communication and IT of Afghanistan, and as an `IT assistant` at UNESCO Kabul. for the time bieng, I study Hack Your Future Belgium program, which is a web development course for newcomers. 
+### Future plans
+I want to specialize in UX/UI design, and my goal is to pursue my higher education in UX/UI area. I will start my new career as UX/UI designer. 
+### Skills
+I study HTML, CSS, Javascript, Nodejs, Github, UX/UI design.  I have some self-study UI design projects using Figma. 
+### Languages
+My native language is Dari(persian), I speak Pashto  (one of my country's local language), I speak English, also Dutch is a language that I am learning.
+I speak Urdo (learned from movies 😄)
+### Character Traits
+I am a self-study hard working and dedicated person. 
+I am always looking for new learning opportunities to build my capacity and learn new things.
 ## Getting Started
 
 <!-- a guide to using this repository -->
