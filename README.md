@@ -3,11 +3,7 @@
 <!-- describe your project -->
 ## Personal info
  I came from Afghanistan, a men dominated country where women confront a lot of challenges by going out to work or study. Specially, in the IT domain which is also men dominated field in my country. I have been always curious about working in an environment where is no discrimination and everyone has a voice. 
-### Demographics
-- Age: 30 
--  Gender: Female 
--  Occupation: study 
--  Married, has no child
+
 ### Education background
 Bachelor degree from Computer Science faculty Kabul university.
 ### Working experience
