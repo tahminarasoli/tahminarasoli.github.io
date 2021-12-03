@@ -1,3 +1,176 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap");
+
 body {
-  background-color: white;
+  background-color: #f5f3f4;
+  color: #202020;
+  font-family: sans-serif, sans-work, open-sans;
 }
+
+.menu {
+  background: #e5e5e5;
+  padding: 20px;
+  color: #202020;
+
+  /* position: -webkit-sticky; */
+}
+
+/* .row{
+  padding-bottom: 10px;
+} */
+.h1 {
+  font-weight: bold;
+  font-size: 64px;
+  padding-top: 60px;
+}
+
+.paragraphs {
+  padding-top: 42px;
+}
+
+.roundedimg {
+  border-radius: 50%;
+  width: 100%;
+  padding-top: 60px;
+}
+
+.btn {
+  padding-top: 10em;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #202020;
+}
+
+.btn p {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.btn hr {
+  height: 5px;
+  background-color: #202020;
+  border: none;
+  color: #202020;
+}
+
+.btn hr:hover {
+  padding-top: 5px;
+}
+
+.line {
+  height: 1px;
+  background-color: #202020;
+  border: none;
+  color: #202020;
+}
+
+span {
+  display: table;
+  margin: auto;
+  padding-bottom: 40px;
+  padding-top: 40px;
+
+  /* display: inline-block;
+  width: 180px;
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis; */
+}
+
+.spandots {
+  display: table;
+  margin: auto;
+  color: #202020;
+}
+
+.sqrimg {
+  background: #f5f3f4;
+  border: 1px solid #f5f3f4;
+  box-sizing: border-box;
+  box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: auto;
+}
+
+.sqrimg-noborder {
+  width: 100%;
+  height: auto;
+}
+
+.h2 {
+  font-weight: bold;
+  font-size: 36px;
+
+  /* padding-top: 20px; */
+}
+
+/* .vrline{
+
+  height: 1px;
+  width: 10%;
+  transform: rotate(95.13deg);
+  color: #e5e5e5;
+  float: left;
+  background-color: #e5e5e5;
+  border: none;
+
+} */
+.italic {
+  font-style: italic;
+}
+
+/* footer */
+.footer {
+  background-color: #202020;
+  height: 400px;
+  color: #e5e5e5;
+  padding: 70px;
+}
+
+.items {
+  padding-top: 40px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #e5e5e5;
+}
+
+
+/* .foline{
+  color: #e5e5e5;
+  height: 5px;
+  width: 40%;
+  transform: rotate(95.13deg);
+  border: none;
+} */
+
+/* it didn't worked to add lines between items in the footer */
+
+/*
+.grid-divider {
+  overflow-x: hidden;
+   //quickfix to hide divider on left side
+  position: relative;
+}
+
+.grid-divider > [class*="col-"]:nth-child(n + 2):after {
+  content: "";
+  background-color: red;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+
+  @media (max-width: 767px) {
+    width: 100%;
+    height: 1px;
+    left: 0;
+    top: -4px; // quickfix to center line between columns
+  }
+  @media (min-width: 768px) {
+    width: 1px;
+    height: auto;
+    left: -1px; // quickfix to hide divider on left side
+  }
+} */
